@@ -9,7 +9,7 @@ import City from '../components/City';
 // importo Route:
 import { Route } from 'react-router-dom';
 
-const apiKey = 'tuApiKey';
+const apiKey = '89fff85c5661c91ff628c4812adf93c7';
 
 function App() {
   const [cities, setCities] = useState([]);
